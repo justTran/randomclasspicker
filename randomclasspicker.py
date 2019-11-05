@@ -1,6 +1,5 @@
-import random, math
+import random
 
-shouldContinue = True
 clist = ["24483	CDA	4321    Cryptographic Hardware	        BSCS	Hardware",
         "18749	CDA	4621    Control of Mobile Robots	    BSCS	Hardware",
         "13595	CDA	4253	Field Prgm Gate Array Design	BSCS	Hardware",
